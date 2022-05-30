@@ -953,7 +953,7 @@ body.offcanvas {
       height: 300px; }
       .project .desc .con .icon {
         position: absolute;
-        bottom: 20px;
+        bottom: -20px;
         left: 20px;
         right: 20px; }
         .project .desc .con .icon span {
